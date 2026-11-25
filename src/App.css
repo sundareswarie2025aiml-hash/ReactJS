@@ -1,0 +1,45 @@
+
+.app-container {
+  text-align: center;
+  background-color: #F8F0F5;
+  padding: 20px;
+}
+
+.main-heading {
+  color: #483D6B;
+}
+
+.sub-heading {
+  color: #B06B82;
+}
+
+.heading {
+  color: #5B3A70;
+  margin-top: 30px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.player-box {
+  width: 200px;
+  margin: 12px;
+  padding: 20px;
+  background-color: #E8DFF0;
+  border: 2px solid #B89BC9;
+  border-radius: 15px;
+  box-shadow: 3px 3px 8px #C9B8CE;
+}
+
+.player-box h2 {
+  color: #5B3A70;
+}
+
+.player-box p {
+  color: #34495E;
+  font-size: 18px;
+}
